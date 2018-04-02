@@ -1,1 +1,3 @@
 # G3N
+
+Aims at building data games sets easily...
